@@ -311,6 +311,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .sang__link-web-inner-2 {
+  visibility: hidden;
   position: relative;
 }
 
@@ -380,4 +381,8 @@ body::-webkit-scrollbar-thumb {
 
 .might-nightmare {
   max-width: 130px;
+}
+
+.alex-nyberg {
+  max-width: 100px;
 }
