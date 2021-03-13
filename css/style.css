@@ -208,7 +208,6 @@ body::-webkit-scrollbar-thumb {
 }
 
 .menu__link::after {
-  visibility: hidden;
   content: '';
   position: absolute;
   width: 40px;
@@ -311,7 +310,6 @@ body::-webkit-scrollbar-thumb {
 }
 
 .sang__link-web-inner-2 {
-  visibility: hidden;
   position: relative;
 }
 
@@ -372,7 +370,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .kristofer-higgins {
-  max-width: 130px;
+  max-width: 120px;
 }
 
 .sanya-zhurbik {
@@ -384,5 +382,17 @@ body::-webkit-scrollbar-thumb {
 }
 
 .alex-nyberg {
+  max-width: 100px;
+}
+
+.mosey-echols {
+  max-width: 105px;
+}
+
+.bey-li {
+  max-width: 70px;
+}
+
+.mimi-visage {
   max-width: 100px;
 }
